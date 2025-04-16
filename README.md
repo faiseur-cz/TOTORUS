@@ -10,3 +10,6 @@ I can build one for you or sell you a pcb, if you'd like to build it yourself!
 
 A thread is on modwiggler for all questions :
 https://www.modwiggler.com/forum/viewtopic.php?t=291993
+
+A mouser cart has been created but be carefull with it, not everything needed is in there!
+https://www.mouser.fr/Tools/Project/Share?AccessId=2211953620
